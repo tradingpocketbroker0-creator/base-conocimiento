@@ -1,1 +1,15 @@
-body[]
+{
+  "institucion": {
+    "nombre": "Institución Educativa Técnica José Agustín Blanco Barros",
+    "chatbot": "Chatbot Institucional",
+    "version": "1.0"
+  },
+  "horarios": [],
+  "eventos": [],
+  "seguro_estudiantil": {},
+  "matriculas": {},
+  "manual_convivencia": {},
+  "uniformes": {},
+  "contactos": {},
+  "preguntas_frecuentes": []
+}
